@@ -1,5 +1,8 @@
 ## Project Machine Learning: Prediksi Harga Rumah di California
 
+
+[RF Model](https://drive.google.com/file/d/1pad92HVTkasKBx5AfHJyTzI68K3eC5a_/view?usp=sharing)
+
 Project ini berfokus pada analisis mendalam terhadap harga rumah di California, yang dikenal sebagai California Housing Price. Dengan memanfaatkan dataset yang dikumpulkan oleh Departemen Sensus Amerika Serikat pada tahun 1990, bertujuan untuk membangun model prediktif yang akurat untuk median_house_value.
 
 Pasar properti California yang dinamis dan kompleks menjadi latar belakang menarik untuk Project ini. Harga rumah di wilayah ini sangat bervariasi, dipengaruhi oleh berbagai faktor seperti lokasi, ukuran, kondisi properti, dan kondisi ekonomi makro. Oleh karena itu, tantangan utama yang saya hadapi adalah mengembangkan model yang dapat menangkap kompleksitas ini dan memberikan prediksi yang andal.
